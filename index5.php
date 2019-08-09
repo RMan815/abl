@@ -1,2 +1,2 @@
 <?Php
-echo 'index5 哈哈哈哈哈哈';
+echo 'index5 hahahah';
